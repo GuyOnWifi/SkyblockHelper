@@ -1,2 +1,3 @@
-# SkyblockHelper.GuyOnWifi.github.io
+# SkyblockHelper
+
 Just a skyblock mod
